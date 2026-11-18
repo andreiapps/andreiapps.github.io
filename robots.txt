@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /downloads
-Disallow: /howtoinstallapk.mp4
-Disallow: /robots.txt
-Disallow: /styles.css
