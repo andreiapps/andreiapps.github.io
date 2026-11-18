@@ -1,1 +1,1 @@
-This is the official GitHub repository for my website, andreiapps.github.io. If you were used to the previous one, andreiapps.com, I don't use it anymore because I though "If GitHub gives me a free website, even if it's a subdomain of github.io, why don't I use it?"
+This is the official GitHub repository for my website, andreiapps.github.io. If you were used to the previous one, andreiapps.com, I don't own it anymore because I decided to stop paying for a domain if GitHub gives me one.
